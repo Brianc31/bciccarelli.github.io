@@ -1,0 +1,35 @@
+AirHorner:
+--------------
+
+1) Tiene un Install
+2) Tiene una función en específico
+3) Funciona Offline, pero necesita un Install en la web
+4) Es interactiva
+5) Es gratis
+6) Funciona en desktop y mobile
+7) Es responsive
+8) Es multiplataforma
+9) Si la descargo o no brinda la misma funcionalidad.
+
+
+ES INSTALABLE
+FUNCIONA OFFLINE
+ES SEGURA: HTTPS
+
+
+
+Desarrollar una AWP es incorporar estas caracteristicas a un sitio ya hecho:
+    > Instalable => 3
+    > Funcione Off-Line => 5 y 6
+    > Segura => Transcurso, subiendola a un servidor HTTPS (como GitHub Pages)
+
+
+
+API REST => SI => HTTP
+Offline - First
+localSotrage
+
+
+
+
+
